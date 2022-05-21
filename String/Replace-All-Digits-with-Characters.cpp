@@ -16,7 +16,6 @@ Explanation: The digits are replaced as follows:
 - s[1] -> shift('a',1) = 'b'
 - s[3] -> shift('c',1) = 'd'
 - s[5] -> shift('e',1) = 'f'
-
 */
 
 class Solution {
